@@ -1,0 +1,5 @@
+#!/Users/user/Documents/Projects/sentiment_analysis_twitter/env/bin/python3.11
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()

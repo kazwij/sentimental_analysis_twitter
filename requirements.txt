@@ -1,0 +1,13 @@
+pandas
+numpy
+seaborn
+nltk
+pillow
+scikit-learn
+plotly
+cufflinks
+wordcloud
+nbformat
+spacy
+matplotlib
+imbalanced-learn

@@ -1,0 +1,13 @@
+prefix=/Users/user/Documents/Projects/sentiment_analysis_twitter/env
+exec_prefix=/Users/user/Documents/Projects/sentiment_analysis_twitter/env
+libdir=/Users/user/Documents/Projects/sentiment_analysis_twitter/env/lib
+sharedlibdir=/Users/user/Documents/Projects/sentiment_analysis_twitter/env/lib
+includedir=/Users/user/Documents/Projects/sentiment_analysis_twitter/env/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
